@@ -1,0 +1,47 @@
+body{
+    background-color: azure;
+}
+
+#Hobbies{
+    padding: 5px;
+    background-color: aqua;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif ;
+
+}
+
+
+
+
+#About{
+
+    padding: 5px;
+    background-color: aquamarine;
+    font-weight:  bold;
+    font-family:  'Roboto', sans-serif ;
+}
+
+#bio{
+    
+    padding: 5px;
+    background-color: aquamarine;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif ;
+}
+h2{
+   
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif ;
+}
+
+h1{
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif ;
+}
+
+#socials{
+    background-color: aqua;
+    font-weight: bold;
+    font-family:  'Roboto', sans-serif ;
+}
+
